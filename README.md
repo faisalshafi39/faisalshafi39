@@ -1,1 +1,1 @@
-Full Stack Engineer with 6 Years Industry experience building Websites and Web Application Software in different domains such as Health Care and Accounting. I have professional experience working with technologies as C# .NET(MVC) and Angular JavaScript Frame Work with also specialties in JQuery. I also have experience working with Python/Django with Database technologies such as SQL SERVER and MYSQL .
+
